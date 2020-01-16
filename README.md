@@ -1,5 +1,5 @@
-# information-geometry
-notes for information geometry
+# Information-geometry
+Notes for information geometry
 
-[Differential Geometry](./DifferentialGeometry.md)
-[Statistical Models](./StatisticalModels.md)
+1. [Differential Geometry](./DifferentialGeometry)
+2. [Statistical Models](./StatisticalModels)
